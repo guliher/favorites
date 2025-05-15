@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pizza Fried chiken Burger
+=======
+Transformers 1+1 Terminator
+>>>>>>> movies
